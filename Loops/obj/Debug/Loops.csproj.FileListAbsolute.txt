@@ -1,0 +1,7 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\bin\Debug\Loops.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\bin\Debug\Loops.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\bin\Debug\Loops.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\obj\Debug\Loops.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Loops\obj\Debug\Loops.pdb

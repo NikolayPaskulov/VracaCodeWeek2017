@@ -1,0 +1,6 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\bin\Debug\Operations.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\bin\Debug\Operations.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\bin\Debug\Operations.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\obj\Debug\Operations.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Operations\obj\Debug\Operations.pdb

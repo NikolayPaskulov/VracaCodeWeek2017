@@ -1,0 +1,7 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\bin\Debug\WorkingWIthConsole2.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\bin\Debug\WorkingWIthConsole2.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\bin\Debug\WorkingWIthConsole2.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\obj\Debug\WorkingWIthConsole2.csprojResolveAssemblyReference.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\obj\Debug\WorkingWIthConsole2.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\obj\Debug\WorkingWIthConsole2.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\WorkingWIthConsole2\obj\Debug\WorkingWIthConsole2.pdb

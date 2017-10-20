@@ -1,0 +1,112 @@
+﻿@{
+    ViewBag.Title = "Chat";
+}
+
+
+
+<div class="container" id="chat">
+    <div class="col-md-9">
+        <div class="row">
+            <form action="javascript:void(0)">
+                <input type="text" id="message" />
+                <input type="submit" id="sendMessage" value="Send" />
+            </form>
+
+        </div>
+        <div class="row" id="msgs" style="overflow:auto">
+
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="row" style="border-bottom:1px solid black;text-align:center">
+            Users
+        </div>
+        <div class="row" id="users">
+
+        </div>
+    </div>
+</div>
+
+<style>
+    body, body * {
+        box-sizing: border-box;
+    }
+    .row {
+        margin: 0!important;
+    }
+
+    #chat > div {
+        border: 1px solid black;
+        height: 400px;
+    }
+
+    #msgs {
+        height: 370px;
+    }
+</style>
+@section scripts {
+    
+    
+
+<script>
+
+    $(function () {
+        var chat = $.connection.chatHub;
+
+        chat.client.addUsers = function (users) {
+            for (var i = 0; i < users.length; i++) {
+                var user = users[i];
+                $("#users").append($('<div class="row"/>').attr("id", user.Id).text(user.Name));
+            }
+        }
+
+        chat.client.userConnected = function (user) {
+            $("#users").append($('<div class="row"/>').attr("id", user.Id).text(user.Name));
+        }
+
+        chat.client.removeUser = function (user) {
+            $("#users").find("#" + user.Id).remove();
+        }
+
+        chat.client.message = function (msg) {
+            msg.Message = msg.Message.replace(/[:)]/g, '<img src="./Content/Image/smile.jpg" />');
+            var encodedName = $('<span />').html(msg.User.Name).html();
+            var encodedMsg = $('<span />').html(msg.Message).html();
+            $("#msgs").append('<div class="row"><strong>' + encodedName
+                + '</strong>:&nbsp;&nbsp;' + encodedMsg + '</span>');
+
+            $("#msgs").scrollTop($("#msgs").find(".row").length * 20);
+        }
+
+        $('#message').focus();
+
+
+
+        $.connection.hub.start().done(function () {
+            var userName = prompt("Please enter your name", "User" + Math.floor(Math.random() * 8999) + 1000);
+            if (userName.length > 30)
+                return;
+
+            chat.server.userConnected(userName);
+
+            $('#sendMessage').click(function () {
+                chat.server.message($('#message').val());
+                $('#message').val('').focus();
+            });
+        });
+
+        $.connection.reconnected(function () {
+            var userName = prompt("Please enter your name", "User" + Math.floor(Math.random() * 8999) + 1000);
+
+            chat.server.userConnected(userName);
+
+            $('#sendMessage').click(function () {
+                chat.server.message($('#message').val());
+                $('#message').val('').focus();
+            });
+        });
+
+    });
+</script>
+
+}

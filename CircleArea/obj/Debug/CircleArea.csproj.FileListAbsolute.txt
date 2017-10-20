@@ -1,0 +1,6 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\CircleArea\obj\Debug\CircleArea.pdb

@@ -1,0 +1,6 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\bin\Debug\ArrayLoops.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\bin\Debug\ArrayLoops.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\bin\Debug\ArrayLoops.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\obj\Debug\ArrayLoops.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\obj\Debug\ArrayLoops.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\ArrayLoops\obj\Debug\ArrayLoops.pdb

@@ -1,0 +1,6 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\bin\Debug\ConsoleInputAndOutput.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\bin\Debug\ConsoleInputAndOutput.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\bin\Debug\ConsoleInputAndOutput.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\obj\Debug\ConsoleInputAndOutput.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\obj\Debug\ConsoleInputAndOutput.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\ConsoleInputAndOutput\obj\Debug\ConsoleInputAndOutput.pdb

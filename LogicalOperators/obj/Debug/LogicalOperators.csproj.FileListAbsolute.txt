@@ -1,0 +1,6 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\LogicalOperators\obj\Debug\LogicalOperators.pdb

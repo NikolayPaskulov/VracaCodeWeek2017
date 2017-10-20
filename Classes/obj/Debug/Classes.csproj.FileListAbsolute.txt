@@ -1,0 +1,7 @@
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\bin\Debug\Classes.exe.config
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\bin\Debug\Classes.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\bin\Debug\Classes.pdb
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\obj\Debug\Classes.exe
+C:\Users\npaskul\source\repos\WorkingWithConsole\Classes\obj\Debug\Classes.pdb
